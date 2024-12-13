@@ -1,6 +1,4 @@
-# QuantumCryptoSim
-<<<<<<< HEAD
-=======
+
 # QuantumCryptoSim
 
 **QuantumCryptoSim** is a Python-based simulation toolkit demonstrating the BB84 quantum key distribution (QKD) protocol using Qiskit and Aer simulators. It allows you to:
@@ -21,4 +19,3 @@
    ```bash
    git clone https://github.com/your-username/QuantumCryptoSim.git
    cd QuantumCryptoSim
->>>>>>> 17529a7 (added all the prexisting repo files)
