@@ -17,5 +17,5 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/QuantumCryptoSim.git
+   git clone https://github.com/saisharan221/QuantumCryptoSim.git
    cd QuantumCryptoSim
